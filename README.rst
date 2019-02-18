@@ -12,8 +12,8 @@ Requirements
 The tool was developed and tested mostly under CPython 3.7.
 CPython 3.4+ and PyPy3 should work too (untested).
 
-In addition, `matplotlib <https://matplotlib.org>` is required. You can install
-this (and other) dependencies in your environment using::
+In addition, `matplotlib <https://matplotlib.org>`_ is required. You can
+install this (and other) dependency in your environment using::
 
   pip install -r requirements.txt
 
@@ -37,9 +37,9 @@ but the destination is customizable.
 To Do / Exercise for the Reader
 ===============================
 
-* If there is interest, I could package this and upload to
+* Provided there is interest, I could package this and upload to
   `PyPi <https://pypi.org>`_
 * More fluid Matplotlib layouts (as opposed to just hardcoding everything for
   now)
 * Support for Git branches, tags, custom revision ranges etc
-* (Insert other cool feature)
+* (Insert another cool feature)
